@@ -14,7 +14,7 @@ const App = () => {
   <Card 
     name="Joe's Stone Crab" 
     specialty="Stone Crabs & Key Lime Pie" 
-    image="https://images.unsplash.com/photo-1551489186-cf8726f514f8?w=400" 
+    image="https://s3-media0.fl.yelpcdn.com/bphoto/cZnPcK_8JVHvj5EfE6-lpw/348s.jpg"
     link="https://www.joesstonecrab.com" 
   />
   {/* 2 */}
@@ -35,7 +35,7 @@ const App = () => {
   <Card 
     name="The Old Salty Dog" 
     specialty="Deep Fried Hot Dogs" 
-    image="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400" 
+    image="https://theoldsaltydog.com/wp-content/uploads/2019/05/2-318x246.jpg" 
     link="https://theoldsaltydog.com" 
   />
   {/* 5 */}
@@ -49,7 +49,7 @@ const App = () => {
   <Card 
     name="Blue Heaven" 
     specialty="Island Breakfast & Large Pies" 
-    image="https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400" 
+    image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sINVn_-Lq62L7LRy7DMrf3k7QQtkIrmbfQ&s" 
     link="https://www.blueheavenkw.com" 
   />
   {/* 7 */}

@@ -1,13 +1,14 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  background-color: #f4f4f9; /* Light grey background */
-  color: #213547; /* Dark text color */
+  /* Florida Sunset Gradient: Light Blue to Soft Sand */
+  background: linear-gradient(180deg, #a1c4fd 0%, #c2e9fb 30%, #f5f7fa 100%);
+  background-attachment: fixed; /* Keeps background still while you scroll */
+  color: #213547;
 }
 
 body {
   margin: 0;
   display: flex;
-  justify-content: center; /* Centers the content horizontally */
-  min-width: 320px;
+  justify-content: center;
   min-height: 100vh;
 }
