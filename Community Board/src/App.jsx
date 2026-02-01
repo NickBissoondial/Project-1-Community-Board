@@ -5,82 +5,83 @@ const App = () => {
   return (
     <div className="App">
       <div className="header">
-        <h1>Chicago Local Eats 🍴</h1>
-        <h2>Student Name: [Your Name] | Z-Number: [Your Z-Number]</h2>
+        <h1>Florida Local Eats 🍴</h1>
+        <h2>Student Name: Nick Bissoondial | Z-23618351 </h2>
       </div>
 
-      <div className="container">
-        {/* 1 */}
-        <Card 
-          name="Lou Malnati's" 
-          specialty="Deep Dish Pizza" 
-          image="https://www.loumalnatis.com/blog/wp-content/uploads/2015/07/deep-dish-pizza.jpg" 
-          link="https://www.loumalnatis.com" 
-        />
-        {/* 2 */}
-        <Card 
-          name="Portillo's" 
-          specialty="Chicago Hot Dogs" 
-          image="https://www.portillos.com/assets/1/7/Desktop-Classic-Dog.png" 
-          link="https://www.portillos.com" 
-        />
-        {/* 3 */}
-        <Card 
-          name="Kasama" 
-          specialty="Filipino Brunch" 
-          image="https://cdn.mrandmrssmith.com/images/1532x862/50531-kasama-chicago-usa.jpg" 
-          link="https://www.kasamachicago.com" 
-        />
-        {/* 4 */}
-        <Card 
-          name="Au Cheval" 
-          specialty="The Famous Burger" 
-          image="https://auchevalchicago.com/wp-content/uploads/2021/08/au-cheval-burger.jpg" 
-          link="https://auchevalchicago.com" 
-        />
-        {/* 5 */}
-        <Card 
-          name="Pequod's Pizza" 
-          specialty="Caramelized Crust" 
-          image="https://pequodspizza.com/wp-content/uploads/2021/04/pequods-pizza-chicago.jpg" 
-          link="https://pequodspizza.com" 
-        />
-        {/* 6 */}
-        <Card 
-          name="Lula Cafe" 
-          specialty="Farm-to-Table" 
-          image="https://lulacafe.com/wp-content/uploads/2021/05/lula-cafe-dining-room.jpg" 
-          link="https://lulacafe.com" 
-        />
-        {/* 7 */}
-        <Card 
-          name="Smoque BBQ" 
-          specialty="Texas Style BBQ" 
-          image="https://smoquebbq.com/assets/images/header-ribs.jpg" 
-          link="https://smoquebbq.com" 
-        />
-        {/* 8 */}
-        <Card 
-          name="The Purple Pig" 
-          specialty="Mediterranean Tapas" 
-          image="https://thepurplepigchicago.com/wp-content/uploads/2021/06/purple-pig-food.jpg" 
-          link="https://thepurplepigchicago.com" 
-        />
-        {/* 9 */}
-        <Card 
-          name="Al's Beef" 
-          specialty="Italian Beef" 
-          image="https://www.alsbeef.com/wp-content/uploads/2020/09/als-beef-sandwich.jpg" 
-          link="https://www.alsbeef.com" 
-        />
-        {/* 10 */}
-        <Card 
-          name="Giordano's" 
-          specialty="Stuffed Pizza" 
-          image="https://giordanos.com/wp-content/uploads/2021/03/giordanos-pizza.jpg" 
-          link="https://giordanos.com" 
-        />
-      </div>
+<div className="container">
+  {/* 1 */}
+  <Card 
+    name="Joe's Stone Crab" 
+    specialty="Stone Crabs & Key Lime Pie" 
+    image="https://images.unsplash.com/photo-1551489186-cf8726f514f8?w=400" 
+    link="https://www.joesstonecrab.com" 
+  />
+  {/* 2 */}
+  <Card 
+    name="Sloppy Joe's Bar" 
+    specialty="World Famous Sandwiches & Cocktails" 
+    image="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400" 
+    link="https://sloppyjoes.com" 
+  />
+  {/* 3 */}
+  <Card 
+    name="Versailles Restaurant" 
+    specialty="World Famous Cuban Cafe" 
+    image="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=400" 
+    link="https://www.versaillesrestaurant.com" 
+  />
+  {/* 4 */}
+  <Card 
+    name="The Old Salty Dog" 
+    specialty="Deep Fried Hot Dogs" 
+    image="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400" 
+    link="https://theoldsaltydog.com" 
+  />
+  {/* 5 */}
+  <Card 
+    name="Bern's Steak House" 
+    specialty="World-Class Steaks & Wine" 
+    image="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=400" 
+    link="https://bernssteakhouse.com" 
+  />
+  {/* 6 */}
+  <Card 
+    name="Blue Heaven" 
+    specialty="Island Breakfast & Large Pies" 
+    image="https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400" 
+    link="https://www.blueheavenkw.com" 
+  />
+  {/* 7 */}
+  <Card 
+    name="Star Fish Company" 
+    specialty="Dockside Fresh Seafood" 
+    image="https://www.starfishcompany.com/wp-content/uploads/elementor/thumbs/IMG_2503-qdpmgfnvqay1mwuxc0zh8z5no77kdtlwrd9edw6daq.jpg" 
+    link="https://www.starfishcompany.com" 
+  />
+  {/* 8 */}
+  <Card 
+    name="Frenchy's Rockaway" 
+    specialty="Famous Grouper Sandwiches" 
+    image="https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=400" 
+    link="https://frenchysonline.com" 
+  />
+  {/* 9 */}
+  <Card 
+    name="Satchel's Pizza" 
+    specialty="Quirky Vibes & Deep Dish" 
+    image="https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400" 
+    link="https://www.satchelspizza.com" 
+  />
+  {/* 10 */}
+  <Card 
+    name="Kermit’s Key West" 
+    specialty="Everything Key Lime" 
+    image="https://images.unsplash.com/photo-1621303837174-89787a7d4729?w=400" 
+    link="https://www.keylimeshop.com" 
+  />
+</div>
+      
     </div>
   )
 }
